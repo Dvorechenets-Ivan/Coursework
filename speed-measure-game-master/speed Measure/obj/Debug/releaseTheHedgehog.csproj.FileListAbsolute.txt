@@ -1,0 +1,37 @@
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\bin\Debug\speed Measure.exe.config
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\bin\Debug\speed Measure.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\bin\Debug\speed Measure.pdb
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\bin\Debug\Interop.WMPLib.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.AssemblyReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\Interop.WMPLib.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.ResolveComReference.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.Form1.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.GameBoard.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.Home.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.Properties.Resources.resources
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.GenerateResource.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.CoreCompileInputs.cache
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.CopyComplete
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\speed Measure.exe
+C:\Users\mrcoo\OneDrive\Рабочий стол\speed-measure-game-master\speed Measure\obj\Debug\speed Measure.pdb
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\bin\Debug\speed Measure.exe.config
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\bin\Debug\speed Measure.exe
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\bin\Debug\speed Measure.pdb
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.AssemblyReference.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.ResolveComReference.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.Form1.resources
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.GameBoard.resources
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.Home.resources
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\speed_Measure.Properties.Resources.resources
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.GenerateResource.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.CoreCompileInputs.cache
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\releaseTheHedgehog.csproj.CopyComplete
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\speed Measure.exe
+C:\Users\Fanera\Desktop\Ваня\Програмування\Курсач\speed-measure-game-master\speed Measure\obj\Debug\speed Measure.pdb
